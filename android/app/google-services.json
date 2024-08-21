@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811445642535",
+    "project_id": "bolu-ee1da",
+    "storage_bucket": "bolu-ee1da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811445642535:android:c39ebfdf1f6a7f21baf502",
+        "android_client_info": {
+          "package_name": "com.example.bollu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc1IG-l_AF0pKHXiTYIXrWzgekGqjXXIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
